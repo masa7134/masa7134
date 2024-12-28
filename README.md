@@ -7,7 +7,7 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 ##  Hi　! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Welcome to my GitHub
 
-- 🧑‍💻 I want to become a backend engineer.
+- 🧑‍💻 I want to become a full stack engineer.
 - 🌱 I’m currently learning react!
 <!--　- 📫 How to reach me: [Twitter - @username](https://twitter.com/username)　-->
 <br>
